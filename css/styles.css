@@ -1,0 +1,93 @@
+/*
+    Student Name: Charles Smith
+    Date: 27 November, 2023
+    File Name: styles.css
+*/
+
+.tel-link a {
+	color: #000066;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+	
+}
+	
+.tel-link {
+	background-color: white;
+	padding: 2%;
+	width: 20%;
+	margin: 0 auto;
+	display: block;
+	
+}
+	
+#contact, p, a {
+	text-align: center;
+	font-size: 3em;
+	font-weight: bold;
+	font-family: italic, serif, sans-serif;
+	
+}
+	
+iframe {
+	border: 1px solid #000;
+	width: 60%;
+	height: 450px;
+	margin: 0 auto;
+	
+}
+
+.hero {
+	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../Beauty.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+.welcome {
+	position: absolute;
+	top: 40%;
+	
+}
+
+.display-1 {
+	font-size: 4em;
+ 	
+}
+
+.bg-brown {
+	background-color: #000066;
+	
+}
+
+/* Media Query for Tablet Viewport */
+@media (min-width: 768px) { 
+    
+    .welcome {
+        top: 20%;
+        left: 5%;
+        padding: 2em;
+    }
+	
+	.hero {
+		background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../Beauty.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		
+	}
+
+}
+
+/* Media Query for Desktop Viewport */
+@media (min-width: 992px) { 
+    
+    .hero {
+        background-position: left;
+    }
+    
+    .display-1 {
+        font-size: 8em;
+    }
+}
