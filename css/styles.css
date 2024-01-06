@@ -1,4 +1,4 @@
-/*
+e/*
     Student Name: Charles Smith
     Date: 27 November, 2023
     File Name: styles.css
@@ -38,7 +38,7 @@ iframe {
 }
 
 .hero {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/Header.jpg);
+	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/Beauty.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -71,7 +71,7 @@ iframe {
     }
 	
 	.hero {
-		background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/Beauty.jpg);
+		background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/Header.jpg);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center;
