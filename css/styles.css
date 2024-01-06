@@ -3,13 +3,20 @@ e/*
     Date: 27 November, 2023
     File Name: styles.css
 */
-	
+
+body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption, iframe, video {
+	margin: 0;
+	border: 0;
+	padding: 0;
+
+}
+
 iframe {
 	border: 2px solid #000;
 	width: 60%;
 	height: 450px;
 	margin: 0 auto;
-	display: block;
+	
 }
 
 main h2 { 
@@ -19,7 +26,7 @@ main h2 {
 
 main p {
 	text-align: center;
-	font-size: 2em;
+	font-size: 1.5em;
 
 }
 	
