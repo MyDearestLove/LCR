@@ -3,29 +3,6 @@ e/*
     Date: 27 November, 2023
     File Name: styles.css
 */
-
-.tel-link a {
-	color: #000066;
-	text-decoration: none;
-	font-weight: bold;
-	display: block;
-	
-}
-	
-.tel-link {
-	background-color: white;
-	padding: 2%;
-	width: 20%;
-	margin: 0 auto;
-	display: block;
-	
-}
-	
-#contact, p, a {
-	text-align: center;
-	font-size: 3em;
-	font-weight: bold;
-	font-family: italic, serif, sans-serif;
 	
 }
 	
