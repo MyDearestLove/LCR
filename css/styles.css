@@ -11,15 +11,6 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 }
 
-img {
-	width: 100%;
-	height: 80%;
-	text-align: center;
-	display: block;
-	margin: 0 auto 1em;
-
-}
-
 footer { 
 	margin-top: 1.5em;
 
