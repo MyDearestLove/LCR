@@ -43,9 +43,10 @@ main p {
 
 }
 	
+/*Hero Image Classes*/
 
 .hero {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/contact.jpg);
+	background-image: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,0)), url(../images/contact.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
