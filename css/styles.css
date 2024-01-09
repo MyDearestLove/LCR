@@ -1,4 +1,4 @@
-e/*
+/*
     Student Name: Charles Smith
     Date: 27 November, 2023
     File Name: styles.css
@@ -43,51 +43,13 @@ main p {
 
 }
 
-.hero {
+/* .hero {
 	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/Header.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	
-}
-
-.heroSchedule {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/Akers2.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	
-}
-
-.heroNewsletter {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/contact.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	
-}
-
-.heroSermons {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/Beauty.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	
-}
-
-.heroQuestions {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/church.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
-	
-}
-
-.heroContact {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/contact.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
+} /*
 	
 }
 
