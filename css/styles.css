@@ -82,7 +82,7 @@ main p {
 }
 
 /* Media Query for Desktop Viewport */
-@media (min-width: 980px) { 
+@media (min-width: 992px) { 
     
     .hero {
         background-position: left;
