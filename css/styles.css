@@ -17,8 +17,8 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 .bible {
 	display: block;
-	height: 2em;
-	width: 2em;
+	height: 40px;
+	width: 40px;
 }
 
 footer { 
