@@ -92,7 +92,7 @@ main p {
 
 	}
 
-	iframe {
+	iframe, figure img {
 		height: 500px;
 
 	}
