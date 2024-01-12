@@ -11,14 +11,22 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 }
 
+.row h1 {
+	text-align: center;
+
+}
+
+.row p {
+	text-align: left;
+
+}
+
 .words {
 	display: none;
 }
 
 .bible {
 	display: block;
-	height: 40px;
-	width: 40px;
 }
 
 footer { 
