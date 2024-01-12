@@ -82,13 +82,13 @@ main p {
 }
 
 /* Media Query for Desktop Viewport */
-@media (min-width: 992px) { 
+@media (min-width: 980px) { 
     
     .hero {
         background-position: left;
     }
     
     .display-1 {
-        font-size: 8em;
+        font-size: 7em;
     }
 }
