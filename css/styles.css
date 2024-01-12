@@ -40,7 +40,7 @@ footer p {
 
 }
 
-iframe {
+iframe, figure img {
 	border: 2px solid #000;
 	width: 80%;
 	height: 400px;
