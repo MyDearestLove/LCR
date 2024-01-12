@@ -11,6 +11,14 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 }
 
+.words {
+	display: none;
+}
+
+.bible {
+	display: block;
+}
+
 footer { 
 	margin-top: 1.5em;
 
@@ -91,4 +99,16 @@ main p {
     .display-1 {
         font-size: 7em;
     }
+}
+
+/* Media Query for Navbar */
+@media (min-width: 850px) { 
+	.words {
+		display: block;
+	}
+
+	.bible {
+		display: none;
+	}
+
 }
