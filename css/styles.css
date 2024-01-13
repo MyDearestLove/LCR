@@ -55,6 +55,11 @@ iframe, figure img {
 	
 }
 
+main {
+	position: absolute;
+
+}
+
 main h2 { 
 	text-align: center;
 	padding: 1em;
