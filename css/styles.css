@@ -11,6 +11,11 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 }
 
+.row {
+	margin-top: 1.5em;
+
+}
+
 .row h1 {
 	text-align: center;
 
