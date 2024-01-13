@@ -5,3 +5,8 @@
 	background-position: center;
 	
 }
+
+header, main, footer {
+	width: 100%;
+
+}
