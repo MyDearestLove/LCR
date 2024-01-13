@@ -13,7 +13,6 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 .row {
 	margin-top: 2em;
-	margin-left: 1.5em;
 
 }
 
@@ -53,11 +52,6 @@ iframe, figure img {
 	margin: 0 auto;
 	display: block;
 	
-}
-
-main {
-	position: fixed;
-
 }
 
 main h2 { 
