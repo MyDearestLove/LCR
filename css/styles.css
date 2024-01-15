@@ -1,7 +1,5 @@
 /*
-    Student Name: Charles Smith
-    Date: 27 November, 2023
-    File Name: styles.css
+	Charles Smith - CSS Web Design
 */
 
 body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption, iframe, video {
@@ -37,6 +35,12 @@ footer {
 footer p {
 	display: block;
 	font-family: sans-serif, roboto;
+
+}
+
+footer a {
+	display: inline-block;
+	margin: 0.25em;
 
 }
 
