@@ -39,8 +39,8 @@ footer p {
 }
 
 footer a {
-	padding: 0 1em;
-	margin: 0 1em;
+	padding: 0 0.5em;
+	margin: 0 0.5em;
 
 }
 
@@ -89,7 +89,7 @@ main p {
         padding: 2em;
     }
 
-	footer a {
+	footer a, footer p {
 		display: inline-block;
 
 	}
