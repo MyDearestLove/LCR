@@ -38,12 +38,6 @@ footer p {
 
 }
 
-footer a {
-	display: inline-block;
-	margin: 0.25em;
-
-}
-
 iframe, figure img {
 	width: 80%;
 	height: 400px;
