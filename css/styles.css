@@ -16,12 +16,7 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 }
 
-.row h1 {
-	text-align: center;
-
-}
-
-.row p {
+.row h1, .row p {
 	text-align: left;
 
 }
@@ -131,6 +126,11 @@ main p {
 @media (min-width: 576px) { 
 	.row {
 		margin-left: 0.75em;
+
+	}
+
+	.row h1 {
+		text-align: center;
 
 	}
 
