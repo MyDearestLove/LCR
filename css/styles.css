@@ -9,11 +9,6 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 }
 
-.container {
-	display: none;
-
-}
-
 .row {
 	margin-top: 2em;
 
