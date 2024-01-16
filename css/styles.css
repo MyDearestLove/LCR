@@ -138,3 +138,12 @@ main p {
 	}
 
 }
+
+/* Media Query for Containing Margin */
+@media (min-width: 1900px) { 
+	#containing {
+		margin: 0 auto;
+
+	}
+
+}
