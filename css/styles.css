@@ -89,10 +89,7 @@ main p {
         padding: 2em;
     }
 
-	footer a, footer p {
-		display: inline-block;
 
-	}
 
 	iframe, figure img {
 		height: 500px;
