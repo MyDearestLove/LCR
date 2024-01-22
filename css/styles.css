@@ -128,7 +128,7 @@ main p {
 
 /* Media Query Row Text Alignment */
 @media (min-width: 576px) { 
-	.row {
+	main .row {
 		margin-left: 0.75em;
 
 	}
