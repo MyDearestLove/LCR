@@ -14,13 +14,8 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 }
 
-main .row h1, main .row p {
+.row h1, .row p {
 	text-align: left;
-
-}
-
-footer .row p {
-	text-align: center;
 
 }
 
@@ -128,12 +123,12 @@ main p {
 
 /* Media Query Row Text Alignment */
 @media (min-width: 576px) { 
-	main .row {
+	.row {
 		margin-left: 0.75em;
 
 	}
 
-	main .row h1 {
+	.row h1 {
 		text-align: center;
 
 	}
