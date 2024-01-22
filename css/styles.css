@@ -19,6 +19,11 @@ body, header, nav, main, footer, img, h1, h2, h3, ul, aside, figure, figcaption,
 
 }
 
+footer. row {
+	text-align: center;
+
+}
+
 .words {
 	display: none;
 }
